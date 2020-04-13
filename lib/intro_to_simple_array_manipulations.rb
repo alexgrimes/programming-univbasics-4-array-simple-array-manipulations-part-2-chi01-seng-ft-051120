@@ -10,4 +10,6 @@ def using_uniq(array)
   array.uniq
 end
 
-using_flatten(arra)
+using_flatten(array)
+  array.flatten
+end 
